@@ -200,31 +200,3 @@ The same CLI commands work with the exe:
 .\RedditQuickWorkBot.exe forhire-draft freelance_forhire
 ```
 
-## Before Pushing To GitHub
-
-Run:
-
-```powershell
-git status
-git add .
-git status
-```
-
-Checklist before commit:
-
-- `.env` is not staged.
-- `config.json` is not staged.
-- `seen_posts.json` is not staged.
-- `for_hire_posts.json` is not staged.
-- `subreddit_rules.json` is not staged.
-- `dist/` and `build/` are not staged.
-- `*.spec` is not staged.
-- No real Telegram bot token is staged.
-
-## Safety Notes
-
-- The bot only reads Reddit RSS/public pages and sends Telegram notifications.
-- It does not auto-post to Reddit.
-- It does not comment.
-- It does not send Reddit DMs.
-- Never commit `.env` or local runtime files.

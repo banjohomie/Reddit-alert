@@ -1,4 +1,4 @@
-# Reddit Quick Work Alert Bot
+# Reddit Quick Work Alert Bot (Version: v1.0)
 
 Reddit Quick Work Alert Bot is a local Windows-friendly Python bot that monitors Reddit RSS feeds for fresh quick-work/freelance posts and sends matching alerts to Telegram.
 

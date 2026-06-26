@@ -1,0 +1,93 @@
+{
+  "freelance_forhire": {
+    "confidence": 0.75,
+    "parsed": {
+      "allows_for_hire": true,
+      "title_required_tags": ["[For Hire]"],
+      "price_required": true,
+      "portfolio_required": true,
+      "flair_required": null,
+      "posting_cooldown_days": 7,
+      "banned_topics": ["spam", "illegal", "adult", "scam"],
+      "notes": ["Preset rules are approximate. Manually verify before posting."]
+    }
+  },
+  "forhire": {
+    "confidence": 0.65,
+    "parsed": {
+      "allows_for_hire": true,
+      "title_required_tags": ["[For Hire]"],
+      "price_required": true,
+      "portfolio_required": true,
+      "flair_required": null,
+      "posting_cooldown_days": 7,
+      "banned_topics": ["spam", "illegal", "adult", "scam"],
+      "notes": ["Preset is approximate. Verify manually."]
+    }
+  },
+  "slavelabour": {
+    "confidence": 0.65,
+    "parsed": {
+      "allows_for_hire": true,
+      "title_required_tags": ["[For Hire]"],
+      "price_required": true,
+      "portfolio_required": true,
+      "flair_required": null,
+      "posting_cooldown_days": 7,
+      "banned_topics": ["spam", "illegal", "adult", "scam"],
+      "notes": ["Preset is approximate. Verify manually."]
+    }
+  },
+  "DoneDirtCheap": {
+    "confidence": 0.65,
+    "parsed": {
+      "allows_for_hire": true,
+      "title_required_tags": ["[For Hire]"],
+      "price_required": true,
+      "portfolio_required": true,
+      "flair_required": null,
+      "posting_cooldown_days": 7,
+      "banned_topics": ["spam", "illegal", "adult", "scam"],
+      "notes": ["Preset is approximate. Verify manually."]
+    }
+  },
+  "jobbit": {
+    "confidence": 0.65,
+    "parsed": {
+      "allows_for_hire": true,
+      "title_required_tags": ["[For Hire]"],
+      "price_required": true,
+      "portfolio_required": true,
+      "flair_required": null,
+      "posting_cooldown_days": 7,
+      "banned_topics": ["spam", "illegal", "adult", "scam"],
+      "notes": ["Preset is approximate. Verify manually."]
+    }
+  },
+  "remotepython": {
+    "confidence": 0.65,
+    "parsed": {
+      "allows_for_hire": true,
+      "title_required_tags": ["[For Hire]"],
+      "price_required": true,
+      "portfolio_required": true,
+      "flair_required": null,
+      "posting_cooldown_days": 7,
+      "banned_topics": ["spam", "illegal", "adult", "scam"],
+      "notes": ["Preset is approximate. Verify manually."]
+    }
+  },
+  "PythonJobs": {
+    "confidence": 0.65,
+    "parsed": {
+      "allows_for_hire": true,
+      "title_required_tags": ["[For Hire]"],
+      "price_required": true,
+      "portfolio_required": true,
+      "flair_required": null,
+      "posting_cooldown_days": 7,
+      "banned_topics": ["spam", "illegal", "adult", "scam"],
+      "notes": ["Preset is approximate. Verify manually."]
+    }
+  }
+}
